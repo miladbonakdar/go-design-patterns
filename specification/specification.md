@@ -1,2 +1,0 @@
-# go-design-patterns
-Specification
