@@ -1,2 +1,2 @@
 # go-design-patterns
-specification
+bridge
